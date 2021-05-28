@@ -1,0 +1,12 @@
+{
+  "name": "BakeBread",
+  "displayName": "BakeBread",
+  "expo": {
+    "name": "BakeBread",
+    "slug": "BakeBread",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
